@@ -2,7 +2,6 @@ node_modules/
 .idea
 .env
 .nyc_output
-lib
 dist
 .idea
 coverage
